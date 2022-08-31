@@ -17,4 +17,4 @@ I'm a PhD student in Computer Science at UMass Amherst and member of both [UMass
 
 Previously, I've completed my Master's in Computer Science at NYU where I worked with Professors [Samuel Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/), and was a member of [ML2](https://wp.nyu.edu/ml2/) and [CILVR](https://wp.nyu.edu/cilvr/). While at NYU I worked with reinforcement learning and deep syntactic models for natural language understanding.
 
-I've also interned at [Google AI](https://ai.google/research/) and [IBM](https://research.ibm.com/), and worked multiple years as a Software Engineer before starting graduate school.
+I've also interned at Google Research on the [AI Language Team](https://ai.google/research/) and [Brain Team](https://research.google/teams/brain/), at [IBM Research](https://research.ibm.com/), and worked multiple years as a Software Engineer before starting graduate school.
