@@ -5,7 +5,7 @@
 title: Andrew Drozdov # the website title (if blank, full name will be used instead)
 first_name: Andrew
 last_name: Drozdov
-email: adrozdov at cs.umass.edu
+email: adrozdov@cs.umass.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text:
@@ -65,7 +65,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  The best way to reach me is by email: adrozdov at cs.umass.edu
+  The best way to reach me is by email: adrozdov@cs.umass.edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
