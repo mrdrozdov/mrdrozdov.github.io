@@ -143,6 +143,9 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
+target-blank:
+  css_class: ext-link
+
 # Extras
 github: [metadata]
 
