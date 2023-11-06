@@ -4,6 +4,10 @@
 
 // Typography
 
+body {
+  font-family: "Roboto Slab";
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -91,7 +95,6 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid $grey-color-light;
   background-color: var(--global-bg-color);
   opacity: 0.95;
 }

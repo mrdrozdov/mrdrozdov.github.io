@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 description:
 
@@ -13,20 +13,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ph.D. Student @ UMass Amherst CICS ([IESL](http://www.iesl.cs.umass.edu/), [UMass NLP](https://nlp.cs.umass.edu/))
+PhD Candidate @ UMass Amherst CICS
 <br>
-Co-advised by Professors [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
+Advisors: [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
+<br>
+TA: [CS 685](https://people.cs.umass.edu/~miyyer/cs685_f22/index.html), [CS 696DS](https://ds.cs.umass.edu/industry/industry-mentorship-program)
 
-Previously...
+MS @ NYU CS
 <br>
-[Google Research, Brain Team](https://research.google/teams/brain/)
-<br>
-[Google Research, Language Team](https://research.google/teams/language/)
-<br>
-[IBM Research](https://research.ibm.com/)
+Mentors: [Samuel Bowman](https://cims.nyu.edu/~sbowman/), [Kyunghyun Cho](https://kyunghyuncho.me/)
 
-M.S., NYU Computer Science ([CILVR](https://wp.nyu.edu/cilvr/), [ML2](https://wp.nyu.edu/ml2/))
-<br>
-Worked with Professors [Samuel Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/)
+Previously at [Google](https://research.google/) and [IBM](https://research.ibm.com/).
 
-[adrozdov@cs.umass.edu](mailto:adrozdov@cs.umass.edu)
+Say hello: [adrozdov@cs.umass.edu](mailto:adrozdov@cs.umass.edu)
+<br>
+<br>
+
+## Research
+
+I'm broadly interested in neural network-related topics including training, inference, in-context learning, knowledge distillation, and evaluation. Most of my work has been in natural language processing and information retrieval.
