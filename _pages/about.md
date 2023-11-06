@@ -18,6 +18,8 @@ PhD Candidate @ UMass Amherst CICS
 Advisors: [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
 <br>
 TA: [CS 685](https://people.cs.umass.edu/~miyyer/cs685_f22/index.html), [CS 696DS](https://ds.cs.umass.edu/industry/industry-mentorship-program)
+<br>
+Organizer: [Data Science Tea](https://ds.cs.umass.edu/ds-tea)
 
 MS @ NYU CS
 <br>
