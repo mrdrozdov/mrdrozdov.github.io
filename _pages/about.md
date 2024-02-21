@@ -13,7 +13,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD Candidate @ UMass Amherst CICS
+Research Scientist @ Databricks (starting soon)
+
+PhD @ UMass Amherst CICS
+<br>
+Thesis: Unlocking Natural Language Generalization through Adaptive Retrieval-based Methods
 <br>
 Advisors: [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
 <br>
@@ -33,4 +37,4 @@ Say hello: [adrozdov@cs.umass.edu](mailto:adrozdov@cs.umass.edu)
 
 ## Research
 
-I'm broadly interested in neural network-related topics including training, inference, in-context learning, knowledge distillation, and evaluation. Most of my work has been in natural language processing and information retrieval.
+I'm broadly interested in neural network-related topics including training, inference, in-context learning, knowledge distillation, and evaluation. Most of my work has been in natural language processing and information retrieval. I'm particularly excited about the emerging field of generative retrieval.
