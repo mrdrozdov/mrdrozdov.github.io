@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Research Scientist @ Databricks (starting soon)
+Research Scientist @ Databricks
 
 PhD @ UMass Amherst CICS
 <br>
@@ -31,7 +31,7 @@ Mentors: [Samuel Bowman](https://cims.nyu.edu/~sbowman/), [Kyunghyun Cho](https:
 
 Previously at [Google](https://research.google/) and [IBM](https://research.ibm.com/).
 
-Say hello: [adrozdov@cs.umass.edu](mailto:adrozdov@cs.umass.edu)
+Say hello: [andrew.drozdov@databricks.com](mailto:andrew.drozdov@databricks.com)
 <br>
 <br>
 

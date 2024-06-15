@@ -5,7 +5,7 @@
 title: Andrew Drozdov # the website title (if blank, full name will be used instead)
 first_name: Andrew
 last_name: Drozdov
-email: adrozdov@cs.umass.edu
+email: andrew.drozdov@databricks.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the Personal Site and Blog of Andrew Drozdov, PhD – Researcher in Natural Language Processing, Generative Retrieval, and Deep Learning.
 footer_text:
@@ -66,7 +66,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  The best way to reach me is by email: adrozdov@cs.umass.edu
+  The best way to reach me is by email: andrew.drozdov@databricks.com
 
 google_analytics: UA-79584451-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
