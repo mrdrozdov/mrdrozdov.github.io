@@ -31,6 +31,8 @@ Mentors: [Samuel Bowman](https://cims.nyu.edu/~sbowman/), [Kyunghyun Cho](https:
 
 Previously at [Google](https://research.google/) and [IBM](https://research.ibm.com/).
 
+I have reviewed 100+ papers at top AI/IR/NLP conferences, as well as supervised many papers as AC and SAC.
+
 Say hello: [andrew.drozdov@databricks.com](mailto:andrew.drozdov@databricks.com)
 <br>
 <br>
