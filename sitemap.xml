@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://mrdrozdov.github.io/blog/2024/advice/</loc>
+<lastmod>2024-02-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/</loc>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/assets/doc/cv.pdf</loc>
+<lastmod>2025-02-02T21:19:52+00:00</lastmod>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/assets/doc/example_pdf.pdf</loc>
+<lastmod>2025-02-02T21:19:52+00:00</lastmod>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/cv.pdf</loc>
+<lastmod>2025-02-02T21:19:52+00:00</lastmod>
+</url>
+<url>
+<loc>https://mrdrozdov.github.io/knnlm_retrieval_quality.pdf</loc>
+<lastmod>2025-02-02T21:19:52+00:00</lastmod>
+</url>
+</urlset>
