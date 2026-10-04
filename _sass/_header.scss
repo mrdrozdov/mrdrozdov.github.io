@@ -1,8 +1,4 @@
 // A centered name above always-visible navigation, including on mobile.
-body.fixed-top-nav {
-  padding-top: 112px;
-}
-
 #navbar.site-header {
   padding: 16px 12px 10px;
   border-bottom: 1px solid var(--global-text-color-light);
@@ -76,10 +72,6 @@ body.fixed-top-nav {
 }
 
 @media (max-width: 575px) {
-  body.fixed-top-nav {
-    padding-top: 100px;
-  }
-
   #navbar.site-header {
     padding: 12px 8px 8px;
 
