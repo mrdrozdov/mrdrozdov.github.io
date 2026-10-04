@@ -1,0 +1,6 @@
+- date: "2026-09-11"
+  text: 'Virginia Tech Frontier AI Seminar, hosted by [Tu Vu](https://tuvllms.github.io/): “Three Reasons You Should Train Search Agents.”'
+- date: "2026-07-24"
+  text: '[SIGIR LLMUP Workshop](https://sigir-llmup.github.io/SIGIR26-LLMUP/) keynote: “Training Adaptive Search Agents for Dynamic Environments.”'
+- date: "2026-04-22"
+  text: 'NYU Fundamentals of Machine Learning guest lecture, hosted by [Kyunghyun Cho](https://kyunghyuncho.me/): “Grounded Reasoning in Real-World ML Systems.”'
