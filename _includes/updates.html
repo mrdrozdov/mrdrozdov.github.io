@@ -1,6 +1,0 @@
-{% assign updates = site.data.updates | sort: 'date' | reverse %}
-<section class="updates" aria-labelledby="updates-heading">
-  <h2 id="updates-heading">Updates</h2>
-  {% include updates_table.html items=updates limit=10 %}
-  <p><a href="{{ '/updates/' | relative_url }}">All updates &rarr;</a></p>
-</section>
