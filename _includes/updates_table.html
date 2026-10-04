@@ -1,0 +1,13 @@
+{% assign updates_limit = include.limit | default: include.items.size %}
+<div class="table-responsive">
+  <table class="table table-sm table-borderless">
+    <tbody>
+      {% for item in include.items limit: updates_limit %}
+      <tr>
+        <th scope="row" class="text-nowrap"><time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time></th>
+        <td>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
