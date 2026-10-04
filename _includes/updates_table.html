@@ -1,6 +1,6 @@
 {% assign updates_limit = include.limit | default: include.items.size %}
 <div class="table-responsive">
-  <table class="table table-sm table-borderless">
+  <table class="table table-sm table-borderless updates-table">
     <tbody>
       {% for item in include.items limit: updates_limit %}
       <tr>

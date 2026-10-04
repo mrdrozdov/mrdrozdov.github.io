@@ -16,7 +16,3 @@ I received my PhD from UMass Amherst CICS, advised by [Andrew McCallum](https://
 I've reviewed more than 100 papers at AI, information retrieval, and NLP conferences and served as an area chair and senior area chair.
 
 Say hello: [andrew.drozdov@databricks.com](mailto:andrew.drozdov@databricks.com)
-
-## Research
-
-I'm broadly interested in neural network-related topics including training, inference, in-context learning, knowledge distillation, and evaluation. Most of my work has been in natural language processing and information retrieval. I'm particularly excited about the emerging field of generative retrieval.
