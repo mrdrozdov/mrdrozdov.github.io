@@ -520,3 +520,22 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+// Use theme colors for update dates and text in both views.
+.table.updates-table {
+  color: var(--global-text-color);
+
+  th, td, time {
+    color: inherit;
+  }
+
+  a {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+}
