@@ -3,39 +3,19 @@ layout: about
 title: Home
 permalink: /
 description:
-
-profile:
-  align: right
-  image: prof_pic.jpg
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 ---
 
-Research Scientist @ Databricks
+## About me
 
-PhD @ UMass Amherst CICS
-<br>
-Thesis: Unlocking Natural Language Generalization through Adaptive Retrieval-based Methods
-<br>
-Advisors: [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
-<br>
-TA: [CS 685](https://people.cs.umass.edu/~miyyer/cs685_f22/index.html), [CS 696DS](https://ds.cs.umass.edu/industry/industry-mentorship-program)
-<br>
-Organizer: [Data Science Tea](https://ds.cs.umass.edu/ds-tea)
+I'm a research scientist at Databricks working on natural language processing, information retrieval, and grounded reasoning. I'm particularly interested in generative retrieval and training search agents that can retrieve and reason over information.
 
-MS @ NYU CS
-<br>
-Mentors: [Samuel Bowman](https://cims.nyu.edu/~sbowman/), [Kyunghyun Cho](https://kyunghyuncho.me/)
+I received my PhD from UMass Amherst CICS, advised by [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), and my MS in computer science from NYU, where I worked with [Samuel Bowman](https://cims.nyu.edu/~sbowman/) and [Kyunghyun Cho](https://kyunghyuncho.me/). Previously, I worked at [Google](https://research.google/) and [IBM](https://research.ibm.com/).
 
-Previously at [Google](https://research.google/) and [IBM](https://research.ibm.com/).
-
-I have reviewed 100+ papers at top AI/IR/NLP conferences, as well as supervised many papers as AC and SAC.
+I've reviewed more than 100 papers at AI, information retrieval, and NLP conferences and served as an area chair and senior area chair.
 
 Say hello: [andrew.drozdov@databricks.com](mailto:andrew.drozdov@databricks.com)
-<br>
-<br>
 
 ## Research
 
