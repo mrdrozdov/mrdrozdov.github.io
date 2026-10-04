@@ -526,7 +526,11 @@ html.transition *:after {
   color: var(--global-text-color);
 
   th, td, time {
-    color: inherit;
+    color: var(--global-text-color);
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
   }
 
   a {
